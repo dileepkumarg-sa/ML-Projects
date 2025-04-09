@@ -12,18 +12,3 @@ Recommendation System: Build a collaborative filtering system for personalized r
 
 Time Series Forecasting: Predict future values based on historical time series data.
 
-📁 Structure
-
-ml-projects/
-│
-├── project-name/
-│   ├── data/              # Datasets or data loaders
-│   ├── notebooks/         # Jupyter notebooks with EDA and modeling
-│   ├── src/               # Source code (models, training scripts)
-│   ├── requirements.txt   # Dependencies
-│   └── README.md          # Project-specific description
-│
-├── utils/                 # Common utility functions and scripts
-├── environments/          # Conda or Docker environments for reproducibility
-├── LICENSE
-└── README.md              # This file
